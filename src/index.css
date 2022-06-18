@@ -7,3 +7,7 @@ body {
     /* font-family: 'Noto Sans JP' !important; */
     font-family: 'Heebo', sans-serif !important;
 }
+
+.MuiInputLabel-outlined.MuiInputLabel-shrink {
+    transform: translate(14px, -1px) scale(0.75) !important;
+}
